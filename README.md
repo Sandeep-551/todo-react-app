@@ -19,3 +19,9 @@
 - 🌙 Light \ dark mode toggle
 
 
+
+![image](https://github.com/Sandeep-551/todo-react-app/assets/68626582/3ce4b73e-e782-4248-a20b-91b9f7276829)
+
+![image](https://github.com/Sandeep-551/todo-react-app/assets/68626582/e7efd143-653e-4025-be5f-c56e85839dd8)
+
+
