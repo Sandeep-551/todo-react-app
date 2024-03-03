@@ -5,8 +5,8 @@
 
 ## This is a super simple Todo App built using React.js and styled using Mantine UI.
 ## To run this project
-* cone this git
-  <h3>Enter th below commands in terminal</h3>
+* clone this git
+  <h3>Enter the below commands in terminal</h3>
 * npm install
 * npm start
 
